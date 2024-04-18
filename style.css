@@ -169,3 +169,21 @@ main {
 .hidden {
   display: none;
 }
+.credits{
+  font-weight: 500;
+  color: black;
+  align-items: center;
+  font-size: 15px;
+  position: relative;
+  bottom: 10px;
+}
+.credits-container{
+  max-width: 350px;
+  max-height: 15px;
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  position: absolute;
+  bottom: 30px;
+  left: 41.5%;
+}
